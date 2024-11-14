@@ -1,6 +1,6 @@
 import random
-words = ['alphabet','astronaut','headphones']
-w = words[random.randint(0,2)]
+from wordlist import abcd
+w = abcd[random.randint(0,2463)]
 l = len(w)
 def shuffler():
     play = 0
