@@ -1,1 +1,1 @@
-this is my fourth project! i have made a program that scrambles a word and the user has to unscramble it! suggestions are welcome, thank you for using my project!
+this is my fourth project! i have made a program that scrambles a word and the user has to unscramble it! i have taken a list of words from the file wordlist.py and i chose a random word from it so make sure to download that file too. suggestions are welcome, thank you for using my project!
